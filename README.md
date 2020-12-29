@@ -11,9 +11,12 @@ The problem and approach to solve the problem in project proposal. You can click
 The data is in Standford Analysis Project (SNAP) webpage. The original data was in a JSON format there. In order to analyze the data, I imported JSON package and decoded JSON file with using query in order to convert JSON file to csv file format. The original dataset for this project can be found [here](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Beauty_10.json.gz)
 
 ## Data Wrangling
-  Data insection and text preprocessing is completed in this section. It can found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Data_Wrangling.ipynb)
+Data wrangling is held in 3 sections:
+1-Data Inspection [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/1-Data_Inspection.ipynb)
+2-Descriptive Statistics [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/2-Descriptive_Statistics.ipynb)
+3-Text Preprocessing [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/3-Text_Preprocessing.ipynb)
 
 ## Exploratory Data Analysis
 Univarate and bivariate analysises are done by using bar charts and wordcloud visualizations. These analysis can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Data_Storytelling.ipynbzd)
 
-Interim report can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Wrangling%26EDA_Report.pdf)
+Milestone report as Data Wrangling and EDA Report can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Wrangling%26EDA_Report.pdf)
