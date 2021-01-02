@@ -17,6 +17,6 @@ Data wrangling is held in 3 sections:
 3-Text Preprocessing [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/3-Text_Preprocessing.ipynb)
 
 ## Exploratory Data Analysis
-Univarate and bivariate analysises are done by using bar charts and wordcloud visualizations. These analysis can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Data_Storytelling.ipynbzd)
+Univarate and bivariate analysises are done by using bar charts and wordcloud visualizations. These analysis can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Data_Storytelling.ipynb)
 
 Milestone report as Data Wrangling and EDA Report can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Wrangling%26EDA_Report.pdf)
