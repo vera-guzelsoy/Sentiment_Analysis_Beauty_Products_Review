@@ -20,3 +20,27 @@ Data wrangling is held in 3 sections:
 Univarate and bivariate analysises are done by using bar charts and wordcloud visualizations. These analysis can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Data_Storytelling.ipynb)
 
 Milestone report as Data Wrangling and EDA Report can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Wrangling%26EDA_Report.pdf)
+
+
+## Modeling
+This is a supervised binary classification problem. We are trying to predict the sentiment based on the reviews on beauty products in Amazon e-commerce online platform. We used Python’s Scikit Learn libraries to solve the problem.
+
+Since the ratings of the reviews were not distributed normally, we decided to decrease rating classes from 5 to 2 by merging Rating 1-2 as ‘Bad’ and Rating 4-5 as 'Good' while dropping Rating 3 from the dataset.
+
+For feature selection, we applied threshold for word occurrence with using min_df/max_df, PCA and Singular Value Decomposition. For feature engineering, we applied CountVectorizer, TF-IDF, Hashing Vectorizer and Word2Vec to the text data in order to turn a collection of text documents into numerical feature vectors.
+
+In this context, we implemented Logistic Regression, Random Forest, Naive Bayes, XGBOOST, CatBoost algorithms and Simple Neural Network as well.
+
+PS:
+Because of that the dataset is imbalanced, we have chosen different strategies:
+1st: As a result of modeling results, we took into attention the f1 score instead of precision or recall.
+2nd: While implementing the modeling algorithms, we used the advantages of parameters. For example: while applying logistig regression I used this parameter: class_weight:balanced
+3rd: While improving the modeling results, we used SMOTE syntetic minority oversampling technique.
+
+Modeling notebooks can be reached from following links. 
+
+- [Count Vectorizer, TF-IDF, Hashing Vectorizer with Traditional Algorithms](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Sentiment_Analysis-1_CV-TF_IDF-HASH.ipynb)
+
+- [Threshold for word occurence, PCA, Singular Value Decomposition, SMOTE techniques](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Sentiment_Analysis-2_EXPWORDLST-SMOTE-PCA-TRNCTDSVD.ipynb)
+
+- [Word2Vec with Keras](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Sentiment_Analysis-3_Word2Vec-Keras.ipynb)
