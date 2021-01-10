@@ -44,3 +44,11 @@ Modeling notebooks can be reached from following links.
 - [Threshold for word occurence, PCA, Singular Value Decomposition, SMOTE techniques](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Sentiment_Analysis-2_EXPWORDLST-SMOTE-PCA-TRNCTDSVD.ipynb)
 
 - [Word2Vec with Keras](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Sentiment_Analysis-3_Word2Vec-Keras.ipynb)
+
+
+## Conclusion
+Final report can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/FINAL-REPORT.pdf)
+
+Project Presentation can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Project-Presentation.pptx)
+
+Project Presentation keynote can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Presentation-Keynotes.pdf)
