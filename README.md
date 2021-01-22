@@ -13,7 +13,7 @@ The data is in Standford Analysis Project (SNAP) webpage. The original data was 
 ## Data Wrangling
 Data wrangling is held in 3 sections:
 1-Data Inspection [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/1-Data_Inspection.ipynb)
-2-Descriptive Statistics [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/2-Descriptive_Statistics.ipynb)
+2-Statistics and Kendall [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/2-Statistics_Kendall.ipynb)
 3-Text Preprocessing [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/3-Text_Preprocessing.ipynb)
 
 ## Exploratory Data Analysis
@@ -47,7 +47,7 @@ Modeling notebooks can be reached from following links.
 
 
 ## Conclusion
-Final report can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/FINAL-REPORT.pdf)
+Final report can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Final-Report.pdf)
 
 Project Presentation can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Presentation.pptx)
 
