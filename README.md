@@ -49,6 +49,6 @@ Modeling notebooks can be reached from following links.
 ## Conclusion
 Final report can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/FINAL-REPORT.pdf)
 
-Project Presentation can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Project-Presentation.pptx)
+Project Presentation can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Presentation.pptx)
 
 Project Presentation keynote can be found [here](https://github.com/vera-guzelsoy/Sentiment_Analysis_Beauty_Products_Review/blob/main/Presentation-Keynotes.pdf)
