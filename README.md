@@ -32,10 +32,7 @@ For feature selection, we applied threshold for word occurrence with using min_d
 In this context, we implemented Logistic Regression, Random Forest, Naive Bayes, XGBOOST, CatBoost algorithms and Simple Neural Network as well.
 
 PS:
-Because of that the dataset is imbalanced, we have chosen different strategies:
-1st: As a result of modeling results, we took into attention the f1 score instead of precision or recall.
-2nd: While implementing the modeling algorithms, we used the advantages of parameters. For example: while applying logistig regression I used this parameter: class_weight:balanced
-3rd: While improving the modeling results, we used SMOTE syntetic minority oversampling technique.
+Because of that the dataset is imbalanced, we have chosen different strategies: While implementing the modeling algorithms, we used the advantages of parameters. For example: while applying logistig regression I used this parameter: class_weight:balanced. Also while improving the modeling results, we used SMOTE syntetic minority oversampling technique.
 
 Modeling notebooks can be reached from following links. 
 
